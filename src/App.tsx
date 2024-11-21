@@ -6,7 +6,7 @@ import { Scroller } from "./utilities/Scroller";
 import { RouteInterface } from "./configuration/routes/Route";
 import Routing from "./configuration/routes/Routing";
 
-GlobalWorkerOptions.workerSrc = "../node_modules/pdfjs-dist/build/pdf.worker.mjs"
+GlobalWorkerOptions.workerSrc = "../../node_modules/pdfjs-dist/build/pdf.worker.mjs"
 
 export default function Main() {
     const ParentPage = () => {

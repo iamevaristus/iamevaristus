@@ -11,6 +11,7 @@ import { Row } from "../../components/base/Row";
 import { Text } from "../../components/base/Text";
 import { Spacer } from "../../components/base/Flex";
 import { Utility } from "../../utilities/Utility";
+import { CircularIconButton } from "../../components/button/CircularIconButton";
 
 const ResumeView: React.FC<ModalProps> = ({ isOpen, handleClose }) => {
     const { isMobile } = useDesign();
@@ -33,7 +34,7 @@ const ResumeView: React.FC<ModalProps> = ({ isOpen, handleClose }) => {
         >
             <Column>
                 <Container width="100%" padding="24px" backgroundColor={Theme.primary}>
-                    <Row>
+                    <Row gap="11px">
                         <Text text="Resume" size={24} color={Theme.secondary} />
                         <Spacer />
                         <Container
@@ -50,6 +51,16 @@ const ResumeView: React.FC<ModalProps> = ({ isOpen, handleClose }) => {
                                 <Icon icon="line-md:downloading-loop" width="2em" height="2em" style={{color: Theme.secondary}} />
                             </Row>
                         </Container>
+                        <CircularIconButton
+                            icon="formkit:close"
+                            title=""
+                            size={0.7}
+                            backgroundColor={Theme.secondary}
+                            color={Theme.error}
+                            buttonStyle={{ padding: "4px" }}
+                            iconStyle={{ borderRadius: "50%" }}
+                            onClick={() => handleClose()}
+                        />
                     </Row>
                 </Container>
                 <PDFWebView

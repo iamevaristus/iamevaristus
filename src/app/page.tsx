@@ -244,6 +244,7 @@ const Featured: React.FC = () => {
                                         <Text text={item.value} color={Theme.primaryDark} size={14} />
                                     </Column>
                                 }
+                                key={index}
                                 color={Theme.hint}
                                 showBottom={index === 0}
                             />
