@@ -19,6 +19,7 @@ import { Utility } from "../utilities/Utility";
 import { Step } from "../components/steps/Step";
 import Title from "../components/Title";
 import Constants from "../configuration/Constants";
+import ResumeView from "./widgets/ResumeView";
 
 export default function HomeRoute(): RouteInterface {
     return {
@@ -29,6 +30,7 @@ export default function HomeRoute(): RouteInterface {
 
 const Layout: React.FC = () => {
     const  { isMobile, isDesktop, width } = useDesign()
+    const [isResumeOpen, setIsResumeOpen] = React.useState(false);
 
     const getInformation = () => {
         const textSize = isDesktop ? 60 : 35;
@@ -84,7 +86,7 @@ const Layout: React.FC = () => {
                         },
                         {
                             text: "View resume",
-                            onClick: () => {},
+                            onClick: () => setIsResumeOpen(true),
                             icon: "solar:arrow-to-top-right-broken"
                         }
                     ].map((action, index) => (
@@ -126,6 +128,7 @@ const Layout: React.FC = () => {
                 <Spinner />
                 <Featured />
             </Column>
+            <ResumeView isOpen={isResumeOpen} handleClose={() => setIsResumeOpen(false)} />
         </React.Fragment>
     )
 }

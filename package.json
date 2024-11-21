@@ -4,12 +4,12 @@
     "version": "1.0.0",
     "type": "module",
     "repository": {
-        "url": "https://github.com/Serchservice/web-ui-kit"
+        "url": "https://github.com/iamevaristus"
     },
     "author": {
         "name": "Evaristus Adimonyemma",
         "email": "evaristusadimonyemma@gmail.com",
-        "url": "https://iamevaristus.github.io"
+        "url": "https://iamevaristus.netlify.app"
     },
     "scripts": {
         "dev": "vite",

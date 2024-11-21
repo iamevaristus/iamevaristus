@@ -10,6 +10,7 @@ class AssetInstance {
     get me() {
         return {
             avatar: new URL("./me/avatar.png", import.meta.url).href,
+            resume: new URL("./me/resume.pdf", import.meta.url).href,
             whoIAm: new URL("./me/whoIAm.png", import.meta.url).href,
         }
     }

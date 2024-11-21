@@ -3,30 +3,30 @@
     "short_name": "iamevaristus",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#03249E",
-    "theme_color": "#03249E",
+    "background_color": "#041259",
+    "theme_color": "#041259",
     "description": "Personal portfolio website for Evaristus Adimonyemma.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Eva-192.png",
+            "src": "icons/Icon-192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Eva-512.png",
+            "src": "icons/Icon-512.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "icons/Eva-192.png",
+            "src": "icons/Icon-192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "icons/Eva-512.png",
+            "src": "icons/Icon-512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
