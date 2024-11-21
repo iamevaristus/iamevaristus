@@ -1,0 +1,16 @@
+{
+    "extends": "./tsconfig.app.json",
+    "compilerOptions": {
+        "strict": false,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "noImplicitAny": false,
+        "skipLibCheck": true,
+        "outDir": "./dist",
+        "declaration": true,
+        "emitDeclarationOnly": true
+    },
+    "include": [
+        "src"
+    ]
+}
