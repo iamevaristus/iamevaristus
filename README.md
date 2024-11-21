@@ -12,6 +12,28 @@ I am a **CEO**, **Entrepreneur**, and **Software Engineer** with a passion for s
 
 ---
 
+## 💼 Company
+
+### **Serchservice Inc.**
+![Serchservice Logo](https://chxpalpeslofqzeulcjr.supabase.co/storage/v1/object/public/serch/logo/AppLogo.png)
+
+**Position:** CEO & Founder  
+**Founded:** 15th August, 2022  
+**Tagline:** *Service, Simplified*  
+**Website:** [serchservice.com](https://www.serchservice.com)  
+
+**About Serchservice:**  
+Serchservice is a platform revolutionizing how users tackle unplanned disruptions. It connects users to vetted artisans for quick solutions, offers video-guided DIY support, and enables referral-based sharing of trusted providers, ensuring reliability and convenience.
+
+**Follow Us on Social Media:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/serchservice)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/serchservice)  
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://www.x.com/serchservice)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@serchservice)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@serchservice)  
+
+---
+
 ## 💻 Tech Stack
 
 ### Programming Languages
