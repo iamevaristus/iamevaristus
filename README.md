@@ -56,8 +56,8 @@ I am a **CEO**, **Entrepreneur**, and **Software Engineer** with a passion for s
 ---
 
 ## 📫 Get in Touch
-- **Email**: evaristus@example.com
-- **LinkedIn**: [Evaristus Adimonyemma](https://linkedin.com/in/iamevaristus)
-- **Instagram**: [Evaristus Adimonyemma](https://instagram.com/iamevaristus)
-- **X/Twitter**: [Evaristus Adimonyemma](https://x.com/iamevaristus)
-- **GitHub**: [@evaristus-adimonyemma](https://github.com/iamevaristus)
+- **Email**: evaristusadimonyemma@gmail.com
+- **LinkedIn**: [Evaristus Adimonyemma on LinkedIn](https://linkedin.com/in/iamevaristus)
+- **Instagram**: [Evaristus Adimonyemma on Instagram](https://instagram.com/iamevaristus)
+- **X/Twitter**: [Evaristus Adimonyemma on X](https://x.com/iamevaristus)
+- **GitHub**: [@iamevaristus](https://github.com/iamevaristus)
